@@ -56,29 +56,6 @@ Below is a consolidated table of test-set performance for all five models:
 | Random Forest        | 0.8825        | 0.5488            | 0.8813 (± 0.0465)       | 0.5682   | 0.460       | 0.304      | 0.941       |
 | XGBoost              | 0.9380        | 0.7415            | 0.9752 (± 0.0525)       | 0.7627   | 0.762       | 0.556      | 0.971       |
 
----
-
-### Accuracy based top to bottom
-
-- **Logistic Regression**  
-  - Test Accuracy: 0.9233  
-  - Balanced Accuracy: 0.7427  
-
-- **SVM (Linear Kernel)**  
-  - Test Accuracy: 0.9282  
-  - Balanced Accuracy: 0.7220  
-
-- **SVM (RBF Kernel)**  
-  - Test Accuracy: 0.9266  
-  - Balanced Accuracy: 0.6195  
-
-- **Random Forest**  
-  - Test Accuracy: 0.8825  
-  - Balanced Accuracy: 0.5488  
-
-- **XGBoost**  
-  - Test Accuracy: 0.9380  
-  - Balanced Accuracy: 0.7415  
 
 ---
 
