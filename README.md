@@ -85,3 +85,10 @@ Below is a consolidated table of test-set performance for all five models:
     Type your input :
     ```
 
+    Enter any review text and press Enter. The script will output:
+
+    ```bash
+    Numeric prediction: 2
+    Readable prediction: Positive
+    ```
+
