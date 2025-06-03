@@ -9,7 +9,11 @@ wheels/
 # Virtual environments
 .venv
 
-
 # uv.lock
-
 uv.lock
+
+# trials
+src/try_01.ipynb
+
+# try - 01 trained models
+data/models
